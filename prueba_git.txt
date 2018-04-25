@@ -1,2 +1,7 @@
 primera linea
+<<<<<<< HEAD
 segunda linea
+=======
+no pasa na
+
+>>>>>>> 86f2c2386d50199e30aa058e95807bc997f99f57
